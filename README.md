@@ -1,9 +1,9 @@
 # PSB-Designing
 
 Project1-backups/           # Backup files of the project
-Project1-2025-08-16_170442.zip>>
-Project1-2025-08-16_171814.zip>>
-Project1-2025-08-16_172925.zip>>
+Project1-2025-08-16_170442.zip<br>
+Project1-2025-08-16_171814.zip<br>
+Project1-2025-08-16_172925.zip<br>
 Project1-2025-08-16_174046.zip
 Project1-2025-08-16_175005.zip
 Project1.kicad_pcb           # PCB layout file
@@ -13,15 +13,15 @@ Project1.kicad_sch           # Schematic file
 fp-info-cache               # PCB footprint cache
 ~Project1.kicad_pcb.lck      # PCB lock file (auto-generated)
 README.md                   # This file
-//
 
-Features>>
+
+Features<br>
 Complete schematic capture of the AC to DC converter.>>
 Fully designed PCB layout ready for manufacturing.>>
 Project backup files to maintain version history.>>
 Compatible with KiCad 9.0+.
-//
-Usage
+
+Usage<br>
 1-Clone the repository
 <git clone https://github.com/AAISHAA1585/PSB-Designing.git>
 //
